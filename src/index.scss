@@ -1,0 +1,7 @@
+@use '@carbon/react/scss/components/button' with (
+  $button-primary: #017f75,
+);
+
+@use '@carbon/react' with (
+  $font-path: '@ibm/plex'
+);
